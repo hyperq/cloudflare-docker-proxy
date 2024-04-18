@@ -13,6 +13,7 @@
 
 ## Config tutorial
 
+
 1. use cloudflare worker host: only support proxy one registry
    ```javascript
    const routes = {
